@@ -5,7 +5,6 @@
  * Created on: April 15, 2023
  * Last Modified: April 18, 2023
  * Description: switch out radiobuttons for a combo box to calculate MPG
- * https://github.com/ChristopherJesc/ExamPractice_4.git
  */
 package ch14;
 
