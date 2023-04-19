@@ -91,7 +91,7 @@ public class MileageCalculatorNoConversion extends Application {
 		// create a scene and place it in the stage
 		Scene scene = new Scene(mainPane);
 
-// set and show stage
+		// set and show stage
 		primaryStage.setTitle("Mileage Calculator");
 		primaryStage.setScene(scene);
 		primaryStage.show();
